@@ -1,5 +1,4 @@
 
-
 // B
 // Implement the following requirement using one or more design patterns and applying good
 // programming practices. Depending on the size and shipping mode, decide how the ducks will be
